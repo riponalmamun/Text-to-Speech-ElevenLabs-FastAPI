@@ -126,7 +126,7 @@ docker run -p 8000:8000 tts-fastapi
 
 ```
 
-## VContributing
+## Contributing
 
 Contributions are welcome! Please open issues or submit pull requests to improve features, fix bugs, or enhance documentation.
 ```bash
